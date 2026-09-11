@@ -130,7 +130,3 @@ If the CSV schema changes, update the corresponding loading and transformation l
 - Preserve the columns required by `load_jobs()` and `load_trends()` when replacing data files.
 - Install updated dependencies in a virtual environment and update `requirements.txt` when the runtime stack changes.
 - The app is designed around reactive calculations, so chart outputs should consume the existing filtered data calculations when adding new views.
-
-## License and Data Provenance
-
-No license or external data-provenance statement is currently included in this repository. Add the appropriate licensing and source information before public redistribution or production deployment.
