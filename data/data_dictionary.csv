@@ -1,0 +1,14 @@
+file,column,description
+ai_jobs.csv,job_id,Unique job identifier
+ai_jobs.csv,job_title,Original job title
+ai_jobs.csv,company_type,"Startup, MNC, or Research Lab"
+ai_jobs.csv,industry,Industry sector
+ai_jobs.csv,country,Country of job posting
+ai_jobs.csv,remote_type,Remote / Hybrid / Onsite
+ai_jobs.csv,experience_level,"Entry, Mid, or Senior"
+ai_jobs.csv,salary_min_usd,Minimum annual salary in USD
+ai_jobs.csv,salary_max_usd,Maximum annual salary in USD
+ai_jobs.csv,posted_year,Year job was posted
+skills_demand.csv,skill,Required technical skill
+skills_demand.csv,skill_category,"Programming, ML, or Cloud"
+country_ai_trends.csv,remote_percentage,Percent of remote AI jobs

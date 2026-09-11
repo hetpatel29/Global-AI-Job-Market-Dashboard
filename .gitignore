@@ -1,0 +1,15 @@
+# Deployment metadata excluded from GitHub
+rsconnect-python/
+
+# macOS and Python generated files
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Local virtual environments
+.venv/
+venv/
+env/
+
+# Local editor settings
+.vscode/
